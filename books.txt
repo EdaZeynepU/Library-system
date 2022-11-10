@@ -1,0 +1,14 @@
+013284737X,Data Structures and Algorithm Analysis in C++,Mark Weiss,T
+1449355430,Learning Python 5th Edition,Mark Lutz,T
+013284739X,Data Structures and Happines in C++,Mark Weiss,T
+1449355730,Learning Python 54545th Edition,Mark Lutz,T
+9780132350884,Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,T
+0134494164,Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series),Robert C. Martin,F
+6053759589,Ben Kirke,Madeline Miller,F
+6053757810,Fahrenheit 451,Ray Bradbury,F
+9750718534,1984,George Orwell,T
+9750719387,Hayvan Çiftliği,George Orwell,F
+6053609900,Bir İdam Mahkumunun Son Günü: Hasan Ali Yücel Klasikleri,Victor Hugo,T
+6052951567,Altıncı Koğuş: Modern Klasikler Dizisi - 102,Anton Pavloviç Çehov,T
+6053326097,Olağanüstü Bir Gece,Stefan Zweig,T
+1,2,3,4

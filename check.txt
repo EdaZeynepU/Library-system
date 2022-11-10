@@ -1,0 +1,5 @@
+Yasemin Mat,Bir İdam Mahkumunun Son Günü: Hasan Ali Yücel Klasikler,Clean Code: A Handbook of Agile Software Craftsmanship,Bir İdam Mahkumunun Son Günü: Hasan Ali Yücel Klasikleri
+Didem Sarı,1984,Hayvan Çiftliği,Olağanüstü Bir Gece,Learning Python 5th Edition
+Faruk Yılmaz,Altıncı Koğuş: Modern Klasikler Dizisi - 102,1984
+Mustafa Arınç,Altıncı Koğuş: Modern Klasikler Dizisi - 102
+Damla Tunç,Olağanüstü Bir Gece
